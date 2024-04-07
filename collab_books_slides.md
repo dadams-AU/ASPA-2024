@@ -89,7 +89,8 @@ _Under Contract with Cambridge University Press_
 
 ### Our Data (cont.)
 #### Dependent Variables
-- Measured Water Quality (TMDL Data) and Perceived Water Quality 
+- Measured Water Quality (TMDL Data)
+- Perceived Water Quality 
 
 #### Independent Variables
 - Number and Type of Stakeholders
@@ -105,7 +106,7 @@ _Under Contract with Cambridge University Press_
         <img src="collaboration_model.png" alt="graphical depiction of theory model">
         <figcaption>Theoretical Model</figcaption>
     </figure>
- </section>
+ </section>>
 
 ---
 
@@ -142,7 +143,7 @@ $$\begin{array}{l l l}
 
 ### Going Forward
 
-1. Further analyze the hypothetical model (presented in the handout) to account for causal relationships between variables.
+1. Further analyze the hypothetical model to account for causal relationships between variables.
 2. Utilize Network analysis of actors to analyze and compare relationships and water quality
 3. Explore activities conducted beyond the on-the-ground operational-level
 
